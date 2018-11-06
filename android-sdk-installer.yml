@@ -1,0 +1,9 @@
+platform: linux
+version: '3859397'
+debug: true
+ignore_existing: true
+components:
+  - platform-tools
+  - build-tools;25.0.3
+  - platforms;android-19
+  - extras;android;m2repository
